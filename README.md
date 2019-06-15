@@ -7,3 +7,5 @@ Make a new C# .Net Core console app, paste the code from the program.cs file int
 run your app.
 
 Feel free to use as you want.
+
+The question are in norwegian, they are asking you to guess which car it is.
